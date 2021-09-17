@@ -4,7 +4,7 @@ O objetivo foi fazer um teste end-to-end de UI para acessar a página de login n
 
 ## Cenário
 
-![Screenshot](feature_express.png)
+![Screenshot](feature-express.png)
 
 ## Instalação do feature-express
 
